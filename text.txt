@@ -1,1 +1,2 @@
 This is my text file
+this is a demo class of git
